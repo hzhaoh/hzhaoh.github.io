@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://huijohnzhao.github.io/</loc>
+        <lastmod>2026-07-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huijohnzhao.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huijohnzhao.github.io/zh/"/>
+    </url>
+    <url>
+        <loc>https://huijohnzhao.github.io/about/</loc>
+        <lastmod>2026-07-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huijohnzhao.github.io/about/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huijohnzhao.github.io/zh/about/"/>
+    </url>
+    <url>
+        <loc>https://huijohnzhao.github.io/links/</loc>
+        <lastmod>2026-07-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huijohnzhao.github.io/links/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huijohnzhao.github.io/zh/links/"/>
+    </url>
+    <url>
+        <loc>https://huijohnzhao.github.io/publications/</loc>
+        <lastmod>2026-07-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huijohnzhao.github.io/publications/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huijohnzhao.github.io/zh/publications/"/>
+    </url>
+    <url>
+        <loc>https://huijohnzhao.github.io/research/</loc>
+        <lastmod>2026-07-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huijohnzhao.github.io/research/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huijohnzhao.github.io/zh/research/"/>
+    </url>
+    <url>
+        <loc>https://huijohnzhao.github.io/students/</loc>
+        <lastmod>2026-07-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huijohnzhao.github.io/students/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huijohnzhao.github.io/zh/students/"/>
+    </url>
+    <url>
+        <loc>https://huijohnzhao.github.io/teaching/</loc>
+        <lastmod>2026-07-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huijohnzhao.github.io/teaching/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huijohnzhao.github.io/zh/teaching/"/>
+    </url>
+    <url>
+        <loc>https://huijohnzhao.github.io/zh/</loc>
+        <lastmod>2026-07-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huijohnzhao.github.io/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huijohnzhao.github.io/"/>
+    </url>
+    <url>
+        <loc>https://huijohnzhao.github.io/zh/about/</loc>
+        <lastmod>2026-07-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huijohnzhao.github.io/zh/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huijohnzhao.github.io/about/"/>
+    </url>
+    <url>
+        <loc>https://huijohnzhao.github.io/zh/links/</loc>
+        <lastmod>2026-07-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huijohnzhao.github.io/zh/links/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huijohnzhao.github.io/links/"/>
+    </url>
+    <url>
+        <loc>https://huijohnzhao.github.io/zh/publications/</loc>
+        <lastmod>2026-07-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huijohnzhao.github.io/zh/publications/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huijohnzhao.github.io/publications/"/>
+    </url>
+    <url>
+        <loc>https://huijohnzhao.github.io/zh/research/</loc>
+        <lastmod>2026-07-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huijohnzhao.github.io/zh/research/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huijohnzhao.github.io/research/"/>
+    </url>
+    <url>
+        <loc>https://huijohnzhao.github.io/zh/students/</loc>
+        <lastmod>2026-07-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huijohnzhao.github.io/zh/students/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huijohnzhao.github.io/students/"/>
+    </url>
+    <url>
+        <loc>https://huijohnzhao.github.io/zh/teaching/</loc>
+        <lastmod>2026-07-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huijohnzhao.github.io/zh/teaching/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huijohnzhao.github.io/teaching/"/>
+    </url>
+</urlset>
